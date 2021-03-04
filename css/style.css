@@ -1,0 +1,10 @@
+
+
+#home{
+    min-height: 100vh;
+    background-image:linear-gradient( rgba(13, 49, 117, 0.6) ,rgba(144, 145, 236, 0.6) )  , url(/images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
